@@ -1,0 +1,14 @@
+{
+  "name": "zz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ZBClqy/lazyImg.git",
+  "author": "zhangsan <zhangsan@.com>",
+  "license": "MIT",
+  "dependencies": {
+    "git-cz": "^4.9.0"
+  },
+  "scripts": {
+    "start": "git-cz"
+  }
+}
